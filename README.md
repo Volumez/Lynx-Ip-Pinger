@@ -1,1 +1,1 @@
-# Lynx-Ip-Pinger
+# Lynxz Ip Pinger
